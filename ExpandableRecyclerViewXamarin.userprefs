@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="ExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExpandableRecyclerViewXamarin\RecyclerAdapter.cs">
+    <Files>
+      <File FileName="ExpandableRecyclerViewXamarin\MainActivity.cs" Line="27" Column="1" />
+      <File FileName="ExpandableRecyclerViewXamarin\RecyclerAdapter.cs" Line="8" Column="42" />
+      <File FileName="ExpandableRecyclerViewXamarin\GroupData.cs" Line="6" Column="35" />
+      <File FileName="ExpandableRecyclerViewXamarin\EntryData.cs" Line="13" Column="1" />
+      <File FileName="ExpandableRecyclerViewXamarin\DataType.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExpandableRecyclerViewXamarin AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
