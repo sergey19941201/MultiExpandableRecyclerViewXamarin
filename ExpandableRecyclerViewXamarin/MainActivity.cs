@@ -112,12 +112,29 @@ namespace ExpandableRecyclerViewXamarin
                     {
                         try
                         {
-                            var current_item = (GroupData2)listItems[i];
+                            GroupData2 groupSelect2 = (GroupData2)listItems[i];
+                            #region closing EntryData items 
+                            if (groupSelect2.items.Count == 0)
+                            {
+                                int count = 0;
+                                while (listItems.Count > i + 1 && listItems[i + 1].GetItemType() == 1)
+                                {
+                                    groupSelect2.items.Add(listItems[i + 1]);
+                                    listItems.RemoveAt(i + 1);
+                                    recyclerAdapter.NotifyItemRemoved(i + 1);
+                                    count++;
+                                }
+                            }
+                            #endregion closing EntryData items 
                         }
                         catch
                         {
-                            recyclerView.FindViewHolderForAdapterPosition(i - 1).ItemView.PerformClick();
-                            i--;
+                            try
+                            {
+                                //recyclerView.FindViewHolderForAdapterPosition(i - 1).ItemView.PerformClick();
+                                //i--;
+                            }
+                            catch { }
                         }
                     }
                 }

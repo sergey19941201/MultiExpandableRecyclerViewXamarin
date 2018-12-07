@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\ExpandableRecyclerViewXamarin.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\Java.Interop.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\Mono.Android.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\mscorlib.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\System.Core.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\System.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\System.Xml.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\Xamarin.Insights.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\System.Net.Http.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\System.Runtime.Serialization.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\System.ServiceModel.Internals.dll
+C:\Users\User\Documents\GitHub\MultiExpandableRecyclerViewXamarin\ExpandableRecyclerViewXamarin\obj\Debug\51\android\assets\Mono.Security.dll
